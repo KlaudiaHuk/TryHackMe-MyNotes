@@ -1,0 +1,25 @@
+What I learned today:
+Gobuster (My notes)
+
+Kali Linux / Ubuntu / Debian:
+sudo apt update
+sudo apt install gobuster
+gobuster --help
+
+Gobuster is a command-line tool written in Go, used in offensive security for brute-force enumeration of:
+Web directories and files 
+Virtual hosts(vhosts)
+DNS subdomains
+It is commonly used during penetration testing, reconnaissance, and CTF(Capture The Flag) challenges to discover hidden resources on web servers.
+Key Features:
+Fast and efficient due to Go's concurrency
+Supports file extensions (-x)
+Can detect directories, subdomains, and virtual hosts
+
+Go
+Go, also known as Golang, is a modern programming language created by Google in 2009. It combines the speed and performance of low-level languages (like C) with the simplicity of high-level languages (like Python).
+Why is Go popular in cybersecurity?
+Fast and lightweight - ideal for tools like Gobuster, Amass, Subfinder
+Creates single executable files - no dependencies required
+great for building CLI tools and automation
+Efficient for tasks like brute-forcing, scanning and enumeration
