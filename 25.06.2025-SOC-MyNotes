@@ -1,0 +1,17 @@
+What I Learned today:
+Security Operations Center (My notes)
+
+SOC stands for Security Operations Center.
+It is a centralized team responsible for monitoring, detecting, analyzing, and responding to cybersecurity threats in real time.
+Key Funcions of a SOC:
+24/7 monitoring of networks and systems
+Detecting malicious activity (e.g. malware, Phishing, unauthorized access)
+Investigating security alerts
+Responding to ancidents and mitigating threats
+Improving overall security posture
+Common Tools Used in SOC:
+SIEM (e.g. CrowdStrike, SentinelOne)
+Network analysis tools (Wireshark, tcpdump)
+Threat intelligence (VirusTotal, Shodan, MISP)
+
+A SOC is the first line of defense in cybersecurity. It protects an organization by identifying and reacting to threats as quickly as possible.
