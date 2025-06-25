@@ -1,0 +1,26 @@
+What I Learned Today: 
+Offensive Security vs defensive security (My notes)
+
+Offensive Security
+A branch of cybersecurity focused on simulating attacks to identify system weaknesses. Experts learn to think like hackers to test how secure a system really is - all done ethically and legally.
+Goal:
+Discover vulnerabilities 
+Test real-world resistance
+Prepare for actual threats
+Examples of actions:
+Penetration testing 
+Phishing simulations
+Privlege escalation
+Exploit and payload development
+
+Defensive Security 
+Focused on protecting systems from attacks. Defensive roles detect, block, and respond to threats in real-time.
+Goal:
+Prevent breaches
+Monitor network activity
+Respond quickly and recover
+Examples of actions:
+Managing firewalls and antivirus
+Log analysis 
+Incident response
+Updating and patching systems
