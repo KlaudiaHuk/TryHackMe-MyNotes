@@ -1,0 +1,19 @@
+Threat intelligence
+Threat Intelligence (TI) is the process of collecting, analyzing, and using information about cyber threats to help organizations protect themselves.
+Key Elements:
+Data Collection - from malware, logs, phishing, dark web, etc.
+threat Analysis - who is attacking, how ,and why
+Actionable Information - helps security teams take preventive steps
+
+Main Types of Threat Intelligence:
+
+Strategic - Big-picture trends, geopolitical risks - Executives, managers
+
+Tactical - Attacker tools and techniques (TTPs) - Blue Teams, defenders
+
+Operational - Info about real-time attacks - SOC analysts
+
+Technical - IPs, malware hashes, URLs, IOCs - Engineers, systems
+
+Why is TI important?
+It helps organizations stay one step ahead of attackers by detecting threats before they cause damage.
