@@ -1,0 +1,22 @@
+Digital Forensics and Incident Response (DFIR)
+
+Together, they help detect, respond to, and investigate cyberattacks.
+
+Digital Forensics:
+Investigates what happened during a cyberattack
+Finds and preserves digital evidence (for court, reports, analysis)
+Looks into hard drives, memory, log files, deleted data
+Answers: Who attacked us? When? How? What was stolen?
+
+Incident Response:
+Responds to active or recent cyberattacks
+Stops the threat (e.g. malware, intrusion)
+Isolates infected systems
+Restores services
+Prevents the attack from spreading or happening again
+
+DFIR Workflow Example:
+Attack happens
+IR: Shut it down, isolate systems
+DF: Investigate and find the root cause
+Report + lessons learned
