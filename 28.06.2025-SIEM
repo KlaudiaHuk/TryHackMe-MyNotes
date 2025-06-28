@@ -1,0 +1,27 @@
+SIEM
+
+SIEM stands for Security Information and Event Management.
+It is a system used to collect, analyze, and alert on security data from across an organization.
+
+What does SIEM do?
+Collects logs from devices (servers, firewalls, routers, etc.)
+Analyzes events in real time
+Detects suspicious activity (e.g. failed logins, strange IPs)
+Sends alerts to the Security Operations Center (SOC)
+Stores data for future investigations (e.g. for DFIR)
+
+Example:
+A user fails login 20 times in 2 minutes -> SIEM detects this -> sends an alert -> SOC investigates possible brute-force attack.
+
+Common SIEM Tools:
+Splunk - Powerful, widely used
+Elastic SIEM - Open-source, based on ELK
+IBM QRadar - Enterprise-level, detailed
+Microsoft Sentinel - Cloud-native SIEM (Azure)
+Graylog - Lightweight, user-friendly
+
+Why is SIEM important?
+Helps detect attacks early
+Combines all security logs in one place
+Supports SOC, IR, and DFIR teams
+Essential for cybersecurity visibility
